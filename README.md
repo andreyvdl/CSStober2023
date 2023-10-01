@@ -7,12 +7,12 @@ Is a repo with challenges to be done everyday of october, just like
 
 # Can I participate?
 
-I really don't know, I'm just a participant, ask the creator
+YES, just go
 <a href=https://github.com/andreyvdl/CSStober2023/edit/main/README.md#credits>
   here
 </a>
 
-# How can I see the results?
+# How can I see your results?
 
 I will upload as a github pages so just wait for new commits ;)
 
