@@ -42,6 +42,7 @@ Well... yes... I think so... if you know how to do it...
     <td>-</td>
     <td>Day 9</td>
     <td>-</td>
+  <tr>
     <td>Day 10</td>
     <td>-</td>
     <td>Day 11</td>
@@ -54,8 +55,6 @@ Well... yes... I think so... if you know how to do it...
     <td>-</td>
     <td>Day 15</td>
     <td>-</td>
-  </tr>
-  <tr>
     <td>Day 16</td>
     <td>-</td>
     <td>Day 17</td>
@@ -64,6 +63,8 @@ Well... yes... I think so... if you know how to do it...
     <td>-</td>
     <td>Day 19</td>
     <td>-</td>
+  </tr>
+  <tr>
     <td>Day 20</td>
     <td>-</td>
     <td>Day 21</td>
@@ -84,6 +85,7 @@ Well... yes... I think so... if you know how to do it...
     <td>-</td>
     <td>Day 29</td>
     <td>-</td>
+  <tr>
     <td>Day 30</td>
     <td>-</td>
     <td>Day 31</td>
