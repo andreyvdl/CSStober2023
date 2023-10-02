@@ -61,10 +61,10 @@ Well... yes... I think so... if you know how to do it...
     <td>-</td>
     <td>Day 18</td>
     <td>-</td>
-    <td>Day 19</td>
-    <td>-</td>
   </tr>
   <tr>
+    <td>Day 19</td>
+    <td>-</td>
     <td>Day 20</td>
     <td>-</td>
     <td>Day 21</td>
@@ -81,11 +81,12 @@ Well... yes... I think so... if you know how to do it...
     <td>-</td>
     <td>Day 27</td>
     <td>-</td>
+  </tr>
+  <tr>
     <td>Day 28</td>
     <td>-</td>
     <td>Day 29</td>
     <td>-</td>
-  <tr>
     <td>Day 30</td>
     <td>-</td>
     <td>Day 31</td>
