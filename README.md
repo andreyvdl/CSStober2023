@@ -8,7 +8,7 @@ Is a repo with challenges to be done everyday of october, just like
 # Can I participate?
 
 YES, just go
-<a href=https://github.com/andreyvdl/CSStober2023/edit/main/README.md#credits>
+<a href=https://github.com/andreyvdl/CSStober2023/main/README.md#credits>
   here
 </a>
 
